@@ -43,6 +43,17 @@ _Merge all the linked-lists into one sorted linked-list and return it._
 ```csharp
 using LeetCodeNet.Com_github_leetcode;
 
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     public int val;
+ *     public ListNode next;
+ *     public ListNode(int val=0, ListNode next=null) {
+ *         this.val = val;
+ *         this.next = next;
+ *     }
+ * }
+ */
 public class Solution {
     public ListNode MergeKLists(ListNode[] lists) {
         if (lists.Length == 0) {
