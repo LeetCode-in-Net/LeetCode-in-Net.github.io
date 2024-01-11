@@ -38,6 +38,17 @@ Merge two sorted linked lists and return it as a **sorted** list. The list shoul
 ```csharp
 using LeetCodeNet.Com_github_leetcode;
 
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     public int val;
+ *     public ListNode next;
+ *     public ListNode(int val=0, ListNode next=null) {
+ *         this.val = val;
+ *         this.next = next;
+ *     }
+ * }
+ */
 public class Solution {
     public ListNode MergeTwoLists(ListNode l1, ListNode l2) {
         ListNode list = new ListNode(-1);

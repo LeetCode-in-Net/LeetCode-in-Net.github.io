@@ -51,7 +51,6 @@ public class Solution {
         int maxArea = -1;
         int left = 0;
         int right = height.Length - 1;
-
         while (left < right) {
             if (height[left] < height[right]) {
                 maxArea = Math.Max(maxArea, height[left] * (right - left));
@@ -61,7 +60,6 @@ public class Solution {
                 right--;
             }
         }
-
         return maxArea;
     }
 }
