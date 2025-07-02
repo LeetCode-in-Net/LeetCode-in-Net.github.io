@@ -38,19 +38,24 @@ Implement [pow(x, n)](http://www.cplusplus.com/reference/valarray/pow/), which c
 ```csharp
 public class Solution {
     public double MyPow(double x, int n) {
-        if (n == 0) return 1.0;
-        long N = n;
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
+        long nn = n;
+        double res = 1;
+        if (n < 0) {
+            nn *= -1;
         }
-        double result = 1.0;
-        while (N > 0) {
-            if ((N & 1) == 1) result *= x;
-            x *= x;
-            N >>= 1;
+        while (nn > 0) {
+            if ((nn % 2) == 1) {
+                nn--;
+                res *= x;
+            } else {
+                x *= x;
+                nn /= 2;
+            }
         }
-        return result;
+        if (n < 0) {
+            return 1.0 / res;
+        }
+        return res;
     }
 }
 ```

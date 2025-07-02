@@ -44,13 +44,16 @@ A **word** is a maximal substring consisting of non-space characters only.
 ```csharp
 public class Solution {
     public int LengthOfLastWord(string s) {
-        int length = 0, i = s.Length - 1;
-        while (i >= 0 && s[i] == ' ') i--;
-        while (i >= 0 && s[i] != ' ') {
-            length++;
-            i--;
+        int len = 0;
+        for (int i = s.Length - 1; i >= 0; i--) {
+            char ch = s[i];
+            if (ch == ' ' && len > 0) {
+                break;
+            } else if (ch != ' ') {
+                len++;
+            }
         }
-        return length;
+        return len;
     }
 }
 ```

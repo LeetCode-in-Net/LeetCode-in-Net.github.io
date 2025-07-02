@@ -40,6 +40,8 @@ You can return the answer in **any order**.
 ## Solution
 
 ```csharp
+using System.Collections.Generic;
+
 public class Solution {
     public IList<int> FindSubstring(string s, string[] words) {
         var res = new List<int>();
@@ -100,6 +102,5 @@ public class Solution {
         }
         return res;
     }
-}
 }
 ```

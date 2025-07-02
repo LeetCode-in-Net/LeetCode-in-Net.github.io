@@ -55,6 +55,8 @@ Return `intervals` _after the insertion_.
 ## Solution
 
 ```csharp
+using System.Collections.Generic;
+
 public class Solution {
     public int[][] Insert(int[][] intervals, int[] newInterval) {
         var result = new List<int[]>();
@@ -76,6 +78,5 @@ public class Solution {
         }
         return result.ToArray();
     }
-}
 }
 ```
