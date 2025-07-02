@@ -77,6 +77,8 @@ Determine if a `9 x 9` Sudoku board is valid. Only the filled cells need to be v
 ## Solution
 
 ```csharp
+using System.Collections.Generic;
+
 public class Solution {
     public bool IsValidSudoku(char[][] board) {
         bool[,] rows = new bool[9, 9];
@@ -87,13 +89,11 @@ public class Solution {
                 if (!isValidCase(board, i, j, rows, cols, blocks)) {
                     return false;
                 }
-
                 if (i != j && !isValidCase(board, j, i, rows, cols, blocks)) {
                     return false;
                 }
             }
         }
-
         return true;
     }
 
@@ -109,6 +109,5 @@ public class Solution {
         blocks[block, num] = true;
         return true;
     }
-}
 }
 ```
