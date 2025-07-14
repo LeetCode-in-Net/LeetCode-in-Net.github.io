@@ -33,6 +33,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0191 |[Number of 1 Bits](LeetCodeNet/G0101_0200/S0191_number_of_1_bits)| Easy | Top_Interview_Questions, Bit_Manipulation | 0 | 100.00
 
 #### Day 3 Conditional Statements
 
@@ -43,6 +44,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0202 |[Happy Number](LeetCodeNet/G0201_0300/S0202_happy_number)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 0 | 100.00
 
 #### Day 5 Function
 
@@ -340,6 +342,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0205 |[Isomorphic Strings](LeetCodeNet/G0201_0300/S0205_isomorphic_strings)| Easy | String, Hash_Table | 2 | 90.78
 
 #### Day 3 Linked List
 
@@ -424,6 +427,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0202 |[Happy Number](LeetCodeNet/G0201_0300/S0202_happy_number)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 0 | 100.00
 | 0054 |[Spiral Matrix](LeetCodeNet/G0001_0100/S0054_spiral_matrix)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Simulation | 0 | 100.00
 
 #### Day 2 String
@@ -487,6 +491,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0210 |[Course Schedule II](LeetCodeNet/G0201_0300/S0210_course_schedule_ii)| Medium | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort | 4 | 91.35
 
 #### Day 12 Dynamic Programming
 
@@ -515,6 +520,7 @@
 |-|-|-|-|-|-
 | 0100 |[Same Tree](LeetCodeNet/G0001_0100/S0100_same_tree)| Easy | Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree | 0 | 100.00
 | 0101 |[Symmetric Tree](LeetCodeNet/G0101_0200/S0101_symmetric_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 0 | 100.00
+| 0199 |[Binary Tree Right Side View](LeetCodeNet/G0101_0200/S0199_binary_tree_right_side_view)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/BFS | 0 | 100.00
 
 #### Day 16 Design
 
@@ -702,6 +708,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0191 |[Number of 1 Bits](LeetCodeNet/G0101_0200/S0191_number_of_1_bits)| Easy | Top_Interview_Questions, Bit_Manipulation | 0 | 100.00
 | 0190 |[Reverse Bits](LeetCodeNet/G0101_0200/S0190_reverse_bits)| Easy | Top_Interview_Questions, Bit_Manipulation, Divide_and_Conquer | 18 | 93.43
 | 0338 |[Counting Bits](LeetCodeNet/G0301_0400/S0338_counting_bits)| Easy | Dynamic_Programming, Bit_Manipulation, LeetCode_75_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 0 | 100.00
 
@@ -753,6 +760,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0209 |[Minimum Size Subarray Sum](LeetCodeNet/G0201_0300/S0209_minimum_size_subarray_sum)| Medium | Array, Binary_Search, Prefix_Sum, Sliding_Window | 0 | 100.00
 | 0003 |[Longest Substring Without Repeating Characters](LeetCodeNet/G0001_0100/S0003_longest_substring_without_repeating_characters)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1), AI_can_be_used_to_solve_the_task | 3 | 96.84
 | 0030 |[Substring with Concatenation of All Words](LeetCodeNet/G0001_0100/S0030_substring_with_concatenation_of_all_words)| Hard | String, Hash_Table, Sliding_Window | 15 | 94.14
 | 0076 |[Minimum Window Substring](LeetCodeNet/G0001_0100/S0076_minimum_window_substring)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(s.length())_Space_O(1) | 3 | 99.36
@@ -770,8 +778,11 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0205 |[Isomorphic Strings](LeetCodeNet/G0201_0300/S0205_isomorphic_strings)| Easy | String, Hash_Table | 2 | 90.78
 | 0049 |[Group Anagrams](LeetCodeNet/G0001_0100/S0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 17 | 83.74
 | 0001 |[Two Sum](LeetCodeNet/G0001_0100/S0001_two_sum)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n), AI_can_be_used_to_solve_the_task | 1 | 98.51
+| 0202 |[Happy Number](LeetCodeNet/G0201_0300/S0202_happy_number)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 0 | 100.00
+| 0219 |[Contains Duplicate II](LeetCodeNet/G0201_0300/S0219_contains_duplicate_ii)| Easy | Array, Hash_Table, Sliding_Window | 12 | 98.14
 | 0128 |[Longest Consecutive Sequence](LeetCodeNet/G0101_0200/S0128_longest_consecutive_sequence)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 16 | 100.00
 
 #### Top Interview 150 Intervals
@@ -828,6 +839,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0199 |[Binary Tree Right Side View](LeetCodeNet/G0101_0200/S0199_binary_tree_right_side_view)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/BFS | 0 | 100.00
 | 0102 |[Binary Tree Level Order Traversal](LeetCodeNet/G0101_0200/S0102_binary_tree_level_order_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 0 | 100.00
 | 0103 |[Binary Tree Zigzag Level Order Traversal](LeetCodeNet/G0101_0200/S0103_binary_tree_zigzag_level_order_traversal)| Medium | Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree | 0 | 100.00
 
@@ -846,6 +858,7 @@
 | 0130 |[Surrounded Regions](LeetCodeNet/G0101_0200/S0130_surrounded_regions)| Medium | Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find | 1 | 100.00
 | 0133 |[Clone Graph](LeetCodeNet/G0101_0200/S0133_clone_graph)| Medium | Hash_Table, Depth_First_Search, Breadth_First_Search, Graph | 117 | 96.34
 | 0207 |[Course Schedule](LeetCodeNet/G0201_0300/S0207_course_schedule)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Big_O_Time_O(N)_Space_O(N) | 4 | 91.60
+| 0210 |[Course Schedule II](LeetCodeNet/G0201_0300/S0210_course_schedule_ii)| Medium | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort | 4 | 91.35
 
 #### Top Interview 150 Graph BFS
 
@@ -858,6 +871,8 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0208 |[Implement Trie (Prefix Tree)](LeetCodeNet/G0201_0300/S0208_implement_trie_prefix_tree)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, LeetCode_75_Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 7 | 100.00
+| 0211 |[Design Add and Search Words Data Structure](LeetCodeNet/G0201_0300/S0211_design_add_and_search_words_data_structure)| Medium | String, Depth_First_Search, Design, Trie | 380 | 93.39
+| 0212 |[Word Search II](LeetCodeNet/G0201_0300/S0212_word_search_ii)| Hard | Top_Interview_Questions, Array, String, Matrix, Backtracking, Trie | 29 | 100.00
 
 #### Top Interview 150 Backtracking
 
@@ -910,8 +925,10 @@
 |-|-|-|-|-|-
 | 0067 |[Add Binary](LeetCodeNet/G0001_0100/S0067_add_binary)| Easy | String, Math, Bit_Manipulation, Simulation | 1 | 91.47
 | 0190 |[Reverse Bits](LeetCodeNet/G0101_0200/S0190_reverse_bits)| Easy | Top_Interview_Questions, Bit_Manipulation, Divide_and_Conquer | 18 | 93.43
+| 0191 |[Number of 1 Bits](LeetCodeNet/G0101_0200/S0191_number_of_1_bits)| Easy | Top_Interview_Questions, Bit_Manipulation | 0 | 100.00
 | 0136 |[Single Number](LeetCodeNet/G0101_0200/S0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, LeetCode_75_Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
 | 0137 |[Single Number II](LeetCodeNet/G0101_0200/S0137_single_number_ii)| Medium | Array, Bit_Manipulation | 0 | 100.00
+| 0201 |[Bitwise AND of Numbers Range](LeetCodeNet/G0201_0300/S0201_bitwise_and_of_numbers_range)| Medium | Bit_Manipulation | 1 | 96.12
 
 #### Top Interview 150 Math
 
@@ -1140,6 +1157,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0199 |[Binary Tree Right Side View](LeetCodeNet/G0101_0200/S0199_binary_tree_right_side_view)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/BFS | 0 | 100.00
 
 #### Day 17 Tree
 
@@ -1250,6 +1268,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0191 |[Number of 1 Bits](LeetCodeNet/G0101_0200/S0191_number_of_1_bits)| Easy | Top_Interview_Questions, Bit_Manipulation | 0 | 100.00
 
 #### Day 14 Bit Manipulation
 
@@ -1293,6 +1312,7 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0438 |[Find All Anagrams in a String](LeetCodeNet/G0401_0500/S0438_find_all_anagrams_in_a_string)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 3 | 97.66
+| 0209 |[Minimum Size Subarray Sum](LeetCodeNet/G0201_0300/S0209_minimum_size_subarray_sum)| Medium | Array, Binary_Search, Prefix_Sum, Sliding_Window | 0 | 100.00
 
 #### Day 6 Breadth First Search Depth First Search
 
@@ -1380,6 +1400,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0201 |[Bitwise AND of Numbers Range](LeetCodeNet/G0201_0300/S0201_bitwise_and_of_numbers_range)| Medium | Bit_Manipulation | 1 | 96.12
 
 #### Day 20 Others
 
@@ -1390,6 +1411,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0202 |[Happy Number](LeetCodeNet/G0201_0300/S0202_happy_number)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers | 0 | 100.00
 | 0149 |[Max Points on a Line](LeetCodeNet/G0101_0200/S0149_max_points_on_a_line)| Hard | Top_Interview_Questions, Array, Hash_Table, Math, Geometry | 5 | 100.00
 
 ### Binary Search I
@@ -1467,6 +1489,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0209 |[Minimum Size Subarray Sum](LeetCodeNet/G0201_0300/S0209_minimum_size_subarray_sum)| Medium | Array, Binary_Search, Prefix_Sum, Sliding_Window | 0 | 100.00
 
 #### Day 2
 
@@ -1725,12 +1748,22 @@
 | 0230 |[Kth Smallest Element in a BST](LeetCodeNet/G0201_0300/S0230_kth_smallest_element_in_a_bst)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_II_Day_17_Tree, Level_2_Day_9_Binary_Search_Tree, Top_Interview_150_Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0226 |[Invert Binary Tree](LeetCodeNet/G0201_0300/S0226_invert_binary_tree)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_12_Tree, Level_2_Day_6_Tree, Udemy_Tree_Stack_Queue, Top_Interview_150_Binary_Tree_General, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
 | 0221 |[Maximal Square](LeetCodeNet/G0201_0300/S0221_maximal_square)| Medium | Array, Dynamic_Programming, Matrix, Dynamic_Programming_I_Day_16, Top_Interview_150_Multidimensional_DP, Big_O_Time_O(m\*n)_Space_O(m\*n) | 3 | 96.90
+| 0219 |[Contains Duplicate II](LeetCodeNet/G0201_0300/S0219_contains_duplicate_ii)| Easy | Array, Hash_Table, Sliding_Window, Top_Interview_150_Hashmap | 12 | 98.14
 | 0215 |[Kth Largest Element in an Array](LeetCodeNet/G0201_0300/S0215_kth_largest_element_in_an_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, LeetCode_75_Heap/Priority_Queue, Data_Structure_II_Day_20_Heap_Priority_Queue, Top_Interview_150_Heap, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 85 | 88.50
+| 0212 |[Word Search II](LeetCodeNet/G0201_0300/S0212_word_search_ii)| Hard | Top_Interview_Questions, Array, String, Matrix, Backtracking, Trie, Top_Interview_150_Trie | 29 | 100.00
+| 0211 |[Design Add and Search Words Data Structure](LeetCodeNet/G0201_0300/S0211_design_add_and_search_words_data_structure)| Medium | String, Depth_First_Search, Design, Trie, Top_Interview_150_Trie | 380 | 93.39
+| 0210 |[Course Schedule II](LeetCodeNet/G0201_0300/S0210_course_schedule_ii)| Medium | Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Level_2_Day_11_Graph/BFS/DFS, Top_Interview_150_Graph_General | 4 | 91.35
+| 0209 |[Minimum Size Subarray Sum](LeetCodeNet/G0201_0300/S0209_minimum_size_subarray_sum)| Medium | Array, Binary_Search, Prefix_Sum, Sliding_Window, Algorithm_II_Day_5_Sliding_Window, Binary_Search_II_Day_1, Top_Interview_150_Sliding_Window | 0 | 100.00
 | 0208 |[Implement Trie (Prefix Tree)](LeetCodeNet/G0201_0300/S0208_implement_trie_prefix_tree)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, LeetCode_75_Trie, Level_2_Day_16_Design, Udemy_Trie_and_Heap, Top_Interview_150_Trie, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 7 | 100.00
 | 0207 |[Course Schedule](LeetCodeNet/G0201_0300/S0207_course_schedule)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Top_Interview_150_Graph_General, Big_O_Time_O(N)_Space_O(N) | 4 | 91.60
 | 0206 |[Reverse Linked List](LeetCodeNet/G0201_0300/S0206_reverse_linked_list)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, LeetCode_75_LinkedList, Data_Structure_I_Day_8_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 0 | 100.00
+| 0205 |[Isomorphic Strings](LeetCodeNet/G0201_0300/S0205_isomorphic_strings)| Easy | String, Hash_Table, Level_1_Day_2_String, Top_Interview_150_Hashmap | 2 | 90.78
+| 0202 |[Happy Number](LeetCodeNet/G0201_0300/S0202_happy_number)| Easy | Top_Interview_Questions, Hash_Table, Math, Two_Pointers, Algorithm_II_Day_21_Others, Programming_Skills_I_Day_4_Loop, Level_2_Day_1_Implementation/Simulation, Top_Interview_150_Hashmap | 0 | 100.00
+| 0201 |[Bitwise AND of Numbers Range](LeetCodeNet/G0201_0300/S0201_bitwise_and_of_numbers_range)| Medium | Bit_Manipulation, Algorithm_II_Day_19_Bit_Manipulation, Top_Interview_150_Bit_Manipulation | 1 | 96.12
 | 0200 |[Number of Islands](LeetCodeNet/G0101_0200/S0200_number_of_islands)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Depth_First_Search, Breadth_First_Search, Matrix, Union_Find, Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search, Graph_Theory_I_Day_1_Matrix_Related_Problems, Level_1_Day_9_Graph/BFS/DFS, Udemy_Graph, Top_Interview_150_Graph_General, Big_O_Time_O(M\*N)_Space_O(M\*N) | 131 | 65.99
+| 0199 |[Binary Tree Right Side View](LeetCodeNet/G0101_0200/S0199_binary_tree_right_side_view)| Medium | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, LeetCode_75_Binary_Tree/BFS, Data_Structure_II_Day_16_Tree, Level_2_Day_15_Tree, Top_Interview_150_Binary_Tree_BFS | 0 | 100.00
 | 0198 |[House Robber](LeetCodeNet/G0101_0200/S0198_house_robber)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, LeetCode_75_DP/1D, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_3, Level_2_Day_12_Dynamic_Programming, Udemy_Dynamic_Programming, Top_Interview_150_1D_DP, Big_O_Time_O(n)_Space_O(n) | 0 | 100.00
+| 0191 |[Number of 1 Bits](LeetCodeNet/G0101_0200/S0191_number_of_1_bits)| Easy | Top_Interview_Questions, Bit_Manipulation, Algorithm_I_Day_13_Bit_Manipulation, Programming_Skills_I_Day_2_Operator, Udemy_Bit_Manipulation, Top_Interview_150_Bit_Manipulation | 0 | 100.00
 | 0190 |[Reverse Bits](LeetCodeNet/G0101_0200/S0190_reverse_bits)| Easy | Top_Interview_Questions, Bit_Manipulation, Divide_and_Conquer, Algorithm_I_Day_14_Bit_Manipulation, Udemy_Bit_Manipulation, Top_Interview_150_Bit_Manipulation | 18 | 93.43
 | 0189 |[Rotate Array](LeetCodeNet/G0101_0200/S0189_rotate_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Algorithm_I_Day_2_Two_Pointers, Udemy_Arrays, Top_Interview_150_Array/String, Big_O_Time_O(n)_Space_O(1) | 0 | 100.00
 | 0188 |[Best Time to Buy and Sell Stock IV](LeetCodeNet/G0101_0200/S0188_best_time_to_buy_and_sell_stock_iv)| Hard | Array, Dynamic_Programming, Top_Interview_150_Multidimensional_DP | 1 | 100.00
