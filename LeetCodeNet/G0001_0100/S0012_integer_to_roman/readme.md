@@ -67,10 +67,8 @@ Given an integer, convert it to a roman numeral.
 ## Solution
 
 ```csharp
-public class Solution
-{
-    public string IntToRoman(int num)
-    {
+public class Solution {
+    public string IntToRoman(int num) {
         var sb = new System.Text.StringBuilder();
         int m = 1000;
         int c = 100;
@@ -83,11 +81,9 @@ public class Solution
         return sb.ToString();
     }
 
-    private int Numerals(System.Text.StringBuilder sb, int num, int one, char cTen, char cFive, char cOne)
-    {
+    private int Numerals(System.Text.StringBuilder sb, int num, int one, char cTen, char cFive, char cOne) {
         int div = num / one;
-        switch (div)
-        {
+        switch (div) {
             case 9:
                 sb.Append(cOne);
                 sb.Append(cTen);

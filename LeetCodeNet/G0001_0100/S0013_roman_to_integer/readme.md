@@ -69,17 +69,13 @@ Given a roman numeral, convert it to an integer.
 ## Solution
 
 ```csharp
-public class Solution
-{
-    public int RomanToInt(string s)
-    {
+public class Solution {
+    public int RomanToInt(string s) {
         int x = 0;
         char y;
-        for (int i = 0; i < s.Length; i++)
-        {
+        for (int i = 0; i < s.Length; i++) {
             y = s[i];
-            switch (y)
-            {
+            switch (y) {
                 case 'I':
                     x = GetX(s, x, i, 1, 'V', 'X');
                     break;
@@ -108,8 +104,7 @@ public class Solution
         return x;
     }
 
-    private int GetX(string s, int x, int i, int i2, char v, char x2)
-    {
+    private int GetX(string s, int x, int i, int i2, char v, char x2) {
         if (i + 1 == s.Length)
         {
             x += i2;
